@@ -10,5 +10,3 @@ for state in states:
         abbr_and_name[0], abbr_and_name[1])
 
 print "</select>"
-
-print states
